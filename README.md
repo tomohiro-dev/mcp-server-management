@@ -65,7 +65,7 @@ claude mcp add -s user github -- npx -y @modelcontextprotocol/server-github@late
 **機能**: GitHub API連携、リポジトリ操作、PR管理
 **使用方法**: GitHub Personal Access Tokenが必要（環境変数で設定）
 
-設定確認:
+設定確認
 ```json
 {
   "mcpServers": {
@@ -117,7 +117,7 @@ github: https://github.com/oraios/serena
 **機能**: セマンティックコード解析、シンボルレベル編集、多言語サポート
 **使用方法**: IDE統合型AIアシスタント、Language Server Protocol連携
 
-設定確認（更新後）:
+設定確認（更新後）
 ```json
 {
   "mcpServers": {
