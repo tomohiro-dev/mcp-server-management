@@ -1,0 +1,9 @@
+{
+  "enabledMcpjsonServers": [
+    "context7",
+    "github",
+    "notion",
+    "linear",
+    "serena"
+  ]
+}
